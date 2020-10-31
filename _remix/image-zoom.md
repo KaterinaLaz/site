@@ -18,3 +18,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάστε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα).
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p2018077_p18laza" data-slug-hash="bGevZjy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Image zoom">
+  <span>See the Pen <a href="https://codepen.io/p2018077_p18laza/pen/bGevZjy">
+  Image zoom</a> by p2018077 p18laza (<a href="https://codepen.io/p2018077_p18laza">@p2018077_p18laza</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
