@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Προσωπικοί Υπολογιστές 
-image_url: /images/xerox-alto.jpg
+image_url: /images/iphonw_mikro.png
 caption: Ο προσωπικός υπολογιστής αναφέρεται σε μια κατηγορία αυτόνομων συστημάτων υλικού και λογισμικού που συνήθως είναι επιτραπέζια ή φορητά και απευθύνονται σε έναν μόνον χρήστη, τον οποίο διευκολύνουν στην εργασία, μελέτη, και ψυχαγωγία του με εξατομικευμένο τρόπο. 
 events:
   - linc-pc 
@@ -10,5 +10,6 @@ events:
   - apple-macintosh-1984
   - apple-newton
   - windows95
+  - iphone 1st
 ---
 
