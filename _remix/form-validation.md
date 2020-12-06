@@ -17,3 +17,10 @@ tags:
 </iframe>
 
 Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p2018077_p18laza" data-slug-hash="vYXGVZY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form Validation">
+  <span>See the Pen <a href="https://codepen.io/p2018077_p18laza/pen/vYXGVZY">
+  Form Validation</a> by p2018077 p18laza (<a href="https://codepen.io/p2018077_p18laza">@p2018077_p18laza</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
